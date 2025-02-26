@@ -7,7 +7,7 @@ cards:
   message: "Welcome to the card application"
   contactDetails:
     name: "williams - Developer"
-    email: "william@devloper.com"
+    email: "{cipher}f764ac1cb8c5b3205af45b9d717f3ecf3a6766b00c584fd06e57913472d0602dcd9b5ee611c0f4e8a4b7cc88f2ef057d"
   onCallSupport:
     - (1800) 555-1234
     - (1800) 523-1345
