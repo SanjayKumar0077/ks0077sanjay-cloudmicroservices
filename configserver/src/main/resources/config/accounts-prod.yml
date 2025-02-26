@@ -4,7 +4,7 @@ build:
 JAVA_HOME: "8"
 
 accounts:
-  message: "Welcome to the card application"
+  message: "Welcome to the account application  27 Feb 2025"
   contactDetails:
     name: "williams - Developer"
     email: "william@devloper.com"
