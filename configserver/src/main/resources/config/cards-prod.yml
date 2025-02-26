@@ -1,0 +1,17 @@
+build:
+  version: "2"
+
+JAVA_HOME: "8"
+
+cards:
+  message: "Welcome to the card application"
+  contactDetails:
+    name: "williams - Developer"
+    email: "william@devloper.com"
+  onCallSupport:
+    - (1800) 555-1234
+    - (1800) 523-1345
+
+
+
+

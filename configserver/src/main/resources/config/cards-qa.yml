@@ -1,0 +1,17 @@
+build:
+  version: "3"
+JAVA_HOME: "8"
+
+cards:
+  message: "Welcome to the card application"
+  contactDetails:
+    name: "Johns - Developer"
+    email: "jons@devloper.com"
+  onCallSupport:
+    - (444) 444-1234
+    - (444) 444-1345
+
+
+
+
+
